@@ -1,0 +1,26 @@
+# --------------------
+# Python artifacts
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual environments
+# --------------------
+.venv/
+venv/
+
+# --------------------
+# uv / Python tooling
+# --------------------
+.uv/
+.python-version.bak
+
+# --------------------
+# OS / Editor noise
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
