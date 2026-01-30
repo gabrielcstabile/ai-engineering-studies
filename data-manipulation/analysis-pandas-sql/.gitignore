@@ -1,0 +1,15 @@
+# ambiente virtual
+.venv/
+
+# cache do Python
+__pycache__/
+*.pyc
+
+# arquivos de sistema
+.DS_Store
+
+# banco de dados local
+*.db
+
+# dados locais (opcional, mas recomendado)
+data/
