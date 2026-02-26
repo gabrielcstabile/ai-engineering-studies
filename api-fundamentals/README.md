@@ -42,8 +42,17 @@ labs/       # experimentos e scripts de estudo
 ## Stack
 
 - Python 3
+- `uv` — gerenciamento de ambiente e dependências
 - `requests`
 - APIs públicas diversas (IBGE, OpenWeather, Spotify, entre outras)
+
+## Setup
+
+```bash
+uv venv
+source .venv/bin/activate
+uv add requests
+```
 
 ## Contexto
 
