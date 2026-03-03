@@ -7,7 +7,6 @@ with hands-on implementations and experiments.
 
 | Folder | Description |
 |--------|-------------|
-| `agents/agent-architecture` | Agent architecture patterns and implementations |
 | `api-fundamentals` | API consumption, authentication, and integration basics |
 | `data-manipulation` | SQL scripts and data transformation exercises |
 
